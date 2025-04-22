@@ -7,10 +7,11 @@ Atualmente focado em construir projetos criativos com **Kotlin** e tecnologias m
 ---
 
 🚀 Tecnologias que estou explorando:  
-Kotlin • Jetpack Compose • Room • MVVM • Firebase • Git • Android Studio  
+Kotlin • Jetpack Compose • Room • MVVM • Firebase • Git • Android Studio 
 ## 🚀 Tecnologias que estou explorando:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/Room-5C6BC0?style=for-the-badge&logo=android&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-A7FFEB?style=for-the-badge&logo=android&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 ---
 
 📌 Sobre mim  
@@ -29,3 +30,5 @@ Kotlin • Jetpack Compose • Room • MVVM • Firebase • Git • Android St
 ✉️ Contato  
 Quer trocar uma ideia, colaborar ou dar um feedback? Me chama por aqui:  
 [www.linkedin.com/in/bergsonnobrega](https://www.linkedin.com/in/bergsonnobrega)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bergsonnobrega&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
