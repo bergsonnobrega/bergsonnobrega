@@ -1,6 +1,3 @@
-<h1 align="center">👨‍💻 Bergson Lisboa Nóbrega</h1>
-
-<p align="center">Estudante de Engenharia de Software | Foco em Android | Kotlin & Jetpack Compose</p>
 
 ---
 
